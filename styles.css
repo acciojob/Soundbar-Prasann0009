@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+#buttons
+{
+  background-color: #a164df;
+  text-align: center;
+}
+.btn
+{
+  padding: 10px 20px;
+  margin: 5px;
+  background-color: #663399;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
